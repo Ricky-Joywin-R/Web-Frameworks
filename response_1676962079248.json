@@ -1,0 +1,74 @@
+[
+  {
+    "name": "main",
+    "commit": {
+      "id": "be2ccf94a7c2ed3dbd567987b9d0b3bfeae47802",
+      "message": "Initial commit\n",
+      "url": "https://try.gitea.io/RickyJoywin_1207/Welcome/commit/be2ccf94a7c2ed3dbd567987b9d0b3bfeae47802",
+      "author": {
+        "name": "RickyJoywin_1207",
+        "email": "rickyjoywin_1207@noreply.try.gitea.io",
+        "username": "RickyJoywin_1207"
+      },
+      "committer": {
+        "name": "RickyJoywin_1207",
+        "email": "rickyjoywin_1207@noreply.try.gitea.io",
+        "username": "RickyJoywin_1207"
+      },
+      "verification": {
+        "verified": false,
+        "reason": "gpg.error.not_signed_commit",
+        "signature": "",
+        "signer": null,
+        "payload": ""
+      },
+      "timestamp": "2023-02-21T06:45:18Z",
+      "added": null,
+      "removed": null,
+      "modified": null
+    },
+    "protected": false,
+    "required_approvals": 0,
+    "enable_status_check": false,
+    "status_check_contexts": [],
+    "user_can_push": false,
+    "user_can_merge": false,
+    "effective_branch_protection_name": ""
+  },
+  {
+    "name": "welcome",
+    "commit": {
+      "id": "be2ccf94a7c2ed3dbd567987b9d0b3bfeae47802",
+      "message": "Initial commit\n",
+      "url": "https://try.gitea.io/RickyJoywin_1207/Welcome/commit/be2ccf94a7c2ed3dbd567987b9d0b3bfeae47802",
+      "author": {
+        "name": "RickyJoywin_1207",
+        "email": "rickyjoywin_1207@noreply.try.gitea.io",
+        "username": "RickyJoywin_1207"
+      },
+      "committer": {
+        "name": "RickyJoywin_1207",
+        "email": "rickyjoywin_1207@noreply.try.gitea.io",
+        "username": "RickyJoywin_1207"
+      },
+      "verification": {
+        "verified": false,
+        "reason": "gpg.error.not_signed_commit",
+        "signature": "",
+        "signer": null,
+        "payload": ""
+      },
+      "timestamp": "2023-02-21T06:45:18Z",
+      "added": null,
+      "removed": null,
+      "modified": null
+    },
+    "protected": false,
+    "required_approvals": 0,
+    "enable_status_check": false,
+    "status_check_contexts": [],
+    "user_can_push": false,
+    "user_can_merge": false,
+    "effective_branch_protection_name": ""
+  }
+]
